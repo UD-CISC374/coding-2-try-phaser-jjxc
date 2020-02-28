@@ -36,6 +36,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coding-2-try-phaser-jjxc/finalassets/images/midground.png"
   },
   {
+    "revision": "86b88d1e4615b77a8b94a93ba82500bf",
+    "url": "/coding-2-try-phaser-jjxc/finalassets/sounds/beam.mp3"
+  },
+  {
+    "revision": "ce33e3b835ac69e0766dbe6d7c67dfc1",
+    "url": "/coding-2-try-phaser-jjxc/finalassets/sounds/beam.ogg"
+  },
+  {
+    "revision": "ce8dbd56bcb81632df7279e91fdcec54",
+    "url": "/coding-2-try-phaser-jjxc/finalassets/sounds/explosion.mp3"
+  },
+  {
+    "revision": "4b9be0c2fdf194385275c2e8d006949b",
+    "url": "/coding-2-try-phaser-jjxc/finalassets/sounds/explosion.ogg"
+  },
+  {
+    "revision": "2101f87289e14406eb4b215cf55a3ebc",
+    "url": "/coding-2-try-phaser-jjxc/finalassets/sounds/pickup.mp3"
+  },
+  {
+    "revision": "2caf90e1d1576c0a7891bfb9723ded61",
+    "url": "/coding-2-try-phaser-jjxc/finalassets/sounds/pickup.ogg"
+  },
+  {
+    "revision": "da087af3292fb062136a96eb496ceaf7",
+    "url": "/coding-2-try-phaser-jjxc/finalassets/sounds/sci-fi_platformer12.mp3"
+  },
+  {
+    "revision": "240502f3ab4e1955dd49c1dbf827e247",
+    "url": "/coding-2-try-phaser-jjxc/finalassets/sounds/sci-fi_platformer12.ogg"
+  },
+  {
     "revision": "6be3462bcaa4a183b678800bb66d176c",
     "url": "/coding-2-try-phaser-jjxc/finalassets/spritesheets/beam.png"
   },
@@ -68,15 +100,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coding-2-try-phaser-jjxc/finalassets/spritesheets/wind_sprite_anim.png"
   },
   {
-    "revision": "9d7f33fcf590060102aa",
-    "url": "/coding-2-try-phaser-jjxc/finalgen.main.050ae9964ce191770b4b.bundle.js"
+    "revision": "ac1f3d2c3c9ec69f738a",
+    "url": "/coding-2-try-phaser-jjxc/finalgen.main.b753dca162377897521e.bundle.js"
   },
   {
     "revision": "14be547c0491a7ebdba1",
     "url": "/coding-2-try-phaser-jjxc/finalgen.vendors.8fd6f3a45e217d00f1de.bundle.js"
   },
   {
-    "revision": "358d683c57c27d2876a0d48f4c31b553",
+    "revision": "b68248bb77d690588c55d2ea3bf91ee7",
     "url": "/coding-2-try-phaser-jjxc/finalindex.html"
   },
   {
