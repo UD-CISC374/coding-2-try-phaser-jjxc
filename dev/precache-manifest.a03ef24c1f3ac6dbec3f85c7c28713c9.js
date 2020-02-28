@@ -100,15 +100,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coding-2-try-phaser-jjxc/devassets/spritesheets/wind_sprite_anim.png"
   },
   {
-    "revision": "190b65c12481747bfa48",
-    "url": "/coding-2-try-phaser-jjxc/devgen.main.fdc906bca3643d784cd5.bundle.js"
+    "revision": "03be081f0e2bce234e8b",
+    "url": "/coding-2-try-phaser-jjxc/devgen.main.bdd2df4743c4580c09e5.bundle.js"
   },
   {
     "revision": "14be547c0491a7ebdba1",
     "url": "/coding-2-try-phaser-jjxc/devgen.vendors.8fd6f3a45e217d00f1de.bundle.js"
   },
   {
-    "revision": "b1d358172a58eebbf5a4e4117727fe8d",
+    "revision": "a8fbf1664e7253ba1fa674267fb20f2d",
     "url": "/coding-2-try-phaser-jjxc/devindex.html"
   },
   {
