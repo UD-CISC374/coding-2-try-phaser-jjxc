@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coding-2-try-phaser-jjxc/devassets/images/foreground.png"
   },
   {
-    "revision": "33c505902f6caa962dad999da80067b1",
+    "revision": "474d9e205df9e69cfa5a2b3183023165",
     "url": "/coding-2-try-phaser-jjxc/devassets/images/midground.png"
   },
   {
